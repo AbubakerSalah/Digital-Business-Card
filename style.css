@@ -1,0 +1,128 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #23252C;
+    color: #ffff;
+    
+}
+
+h2 {
+    margin-bottom: 5px;
+}
+
+h3 {
+    padding: 0rem 1.3rem;
+    line-height: 1.3rem;
+    text-align: left;
+}
+
+h4 {
+    color: #F3BF99;
+    margin-top: 0px;
+    font-weight: lighter;
+}
+
+
+p{
+    
+    padding: 0rem 1.4rem;
+    line-height: 1.1rem;
+    font-size: 14px;
+    text-align: left;
+    color: #DCDCDC;
+    font-weight: 400;
+  
+}
+
+a:hover {
+    transform: scale(1.1);
+    opacity: 1;
+}
+
+
+
+a {
+    text-decoration: none;
+    color: #918E9B;
+    
+}
+
+.img {
+    width: 100%;
+    border-radius: 15px 15px 0px 0px ;
+
+}
+
+
+.container {
+  width: 300px;
+  margin: 2em auto;
+  text-align: center;
+  box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.959);
+  background-color: #1A1B21;
+  border-radius: 15px;
+  
+  
+  
+}
+
+.header-container {
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    gap:19px;
+}
+
+
+.mail-btn {
+    
+    
+}
+
+.lnkd-btn,
+.mail-btn, i {
+    padding-right: 0.625rem;
+}
+
+.lnkd-btn,
+.mail-btn {
+    min-width: 115px;
+    border-radius: 6px;
+    padding: 10px 20px;
+    
+    
+}
+
+.lnkd-btn {
+    background-color: #5093E2;
+    color: #ffff;
+     
+}
+
+.mail-btn {
+    background-color: white;
+    color: #1E1F26;
+   
+}
+
+ 
+.footer {
+    background-color: #161619;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2em 3em;
+    border-radius:  0px 0px 15px 15px;
+    
+}
+
+.icon {
+    font-size: 30px;
+}
+
+
+
+
