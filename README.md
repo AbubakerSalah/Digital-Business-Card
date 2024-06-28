@@ -1,5 +1,5 @@
 # react-digital-business-card
-A digital business card made with React.js as the first solo project from Scrimba React Course: https://scrimba.com/learn/learnreact
+A digital business card made with React.js as the first solo project from Scrimba React Course: [https://scrimba.com/learn/learnreact](https://v1.scrimba.com/dashboard#overview)
 
 <p align="center">
   <img src="Screenshot.png">
